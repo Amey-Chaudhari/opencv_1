@@ -3,12 +3,12 @@
 git status
 ```
 This site was built using [GitHub Pages](https://pages.github.com/)
--o
--p
--e
--n
--c
--v
+- o
+- p
+- e
+- n
+- c
+- v
 > quote
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
