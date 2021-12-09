@@ -3,9 +3,9 @@ print(np.__version__)
 arr=np.array([[1,2,3,4], [1,2,3,4]])
 print(arr)
 print()
-arr1=np.linspace(0,2,9)
+arr1=np.linspace(0,2,9) #any 9 no. from 1 to 2 of any space
 print(arr1)
-arr2= np.arange(1,10,2)
+arr2= np.arange(1,10,2) #range between two no.
 print(arr2)
-arr3=np.eye(3) 
+arr3=np.eye(3) #identity matrix
 print(arr3)
