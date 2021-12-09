@@ -9,7 +9,7 @@ arr2= np.arange(1,10,2) #range between two no.
 print(arr2)
 arr3=np.eye(3) #identity matrix
 print(arr3)
-arr1=np.random.randint(5,size=(2,3))
+arr1=np.random.randint(5,size=(2,3))#random integer no.
 print(arr1)
 arr1=np.random.rand(2,3)*255 #scalar matrix multiplication
 print(arr1)
